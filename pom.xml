@@ -38,6 +38,11 @@
       <artifactId>hibernate-annotations</artifactId>
       <version>3.5.6-Final</version>
     </dependency>
+    <dependency>
+      <groupId>opensymphony</groupId>
+      <artifactId>sitemesh</artifactId>
+      <version>2.4.2</version>
+    </dependency>
   </dependencies>
   <build>
     <finalName>vraptor-base</finalName>

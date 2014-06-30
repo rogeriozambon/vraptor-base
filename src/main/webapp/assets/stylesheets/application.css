@@ -1,0 +1,12 @@
+.container {
+  margin: 50px auto;
+  padding: 20px;
+  width: 900px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.container p {
+  color: #999;
+}

@@ -20,7 +20,7 @@ public class ProductController {
   }
 
   @Path("/")
-  public List<Product> all() {
+  public List<Product> index() {
     return dao.all();
   }
 }
